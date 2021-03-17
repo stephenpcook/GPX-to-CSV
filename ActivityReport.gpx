@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensionsv3.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v1 http://www.garmin.com/xmlschemas/TrackPointExtensionv1.xsd" creator="Orbital Track">
+  <metadata>
+    <time>2021-03-17T09:44:07Z</time>
+  </metadata>
+  <trk>
+    <name>James Test</name>
+    <trkseg>
+      <trkpt lat="50.709270" lon="-3.479834">
+        <time>2021-03-05T14:31:25Z</time>
+      </trkpt>
+      <trkpt lat="50.709303" lon="-3.479813">
+        <time>2021-03-05T15:04:24Z</time>
+      </trkpt>
+      <trkpt lat="50.709184" lon="-3.479855">
+        <time>2021-03-05T15:45:27Z</time>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>
